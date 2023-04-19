@@ -5,7 +5,7 @@ on:
     branches:
       - jesse/add-documentation-on-github-pages
 jobs:
-  deploy:
+  deploy-documentation:
     runs-on: ubuntu-latest
     permissions:
       pages: write
