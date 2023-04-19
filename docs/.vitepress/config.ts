@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: 'https://linspw.github.io/Easy-DnD/',
+  base: '/Easy-DnD/',
   title: "Vue-Easy-DnD",
   description: "A HTML5 drag-and-drop replacement",
   themeConfig: {
