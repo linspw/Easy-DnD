@@ -3,7 +3,7 @@ on:
   workflow_dispatch: {}
   push:
     branches:
-      - master
+      - jesse/add-documentation-on-github-pages
 jobs:
   deploy:
     runs-on: ubuntu-latest
